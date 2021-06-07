@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "name": "Sanju",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "40000",
+      "startDate": "5 Feb 2020",
+      "notes": "",
+      "id": 1604589551457,
+      "profileUrl": "../Assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Jaiswal",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "42000",
+      "startDate": "3 Jan 2020",
+      "notes": "",
+      "id": 1604589594363,
+      "profileUrl": "../Assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Tushar",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "20000",
+      "startDate": "12 Jan 2020",
+      "notes": "",
+      "id": 1604589699566,
+      "profileUrl": "../Assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "Shinde",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "12000",
+      "startDate": "3 Feb 2020",
+      "notes": "",
+      "id": 1604589731061,
+      "profileUrl": "../Assets/profile-images/Ellipse -3.png"
+    }
+  ]
+}
