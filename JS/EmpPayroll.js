@@ -63,5 +63,4 @@ class EmployeePayRoll
       throw 'Invalid, Start Date is beyond 30 Days!';
     this._startDate = startDate; 
   }
-   
 }
