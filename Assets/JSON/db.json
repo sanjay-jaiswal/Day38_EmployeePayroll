@@ -1,8 +1,8 @@
 {
   "employee": [
     {
-      "name": "Sanju",
-      "gender": "male",
+      "name": "Divya",
+      "gender": "Female",
       "departMent": [
         "HR"
       ],
@@ -13,16 +13,16 @@
       "profileUrl": "../Assets/profile-images/Ellipse 1.png"
     },
     {
-      "name": "Jaiswal",
-      "gender": "male",
+      "name": "Priyanshu",
+      "gender": "Female",
       "departMent": [
         "HR"
       ],
-      "salary": "42000",
+      "salary": "47000",
       "startDate": "3 Jan 2020",
       "notes": "",
       "id": 1604589594363,
-      "profileUrl": "../Assets/profile-images/Ellipse 1.png"
+      "profileUrl": "../Assets/profile-images/Ellipse-1.png"
     },
     {
       "name": "Tushar",
@@ -34,7 +34,7 @@
       "startDate": "12 Jan 2020",
       "notes": "",
       "id": 1604589699566,
-      "profileUrl": "../Assets/profile-images/Ellipse -3.png"
+      "profileUrl": "../Assets/profile-images/Ellipse -2.png"
     },
     {
       "name": "Shinde",
